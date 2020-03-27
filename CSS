@@ -1,0 +1,166 @@
+/************Stylesheet One Page Hosted Website*************/
+
+/*font-family: 'Montserrat', sans-serif;
+font-family: 'IBM Plex Sans', sans-serif;
+font-family: 'Roboto', sans-serif;*/
+
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Sans:400,700|Montserrat:400,700|Roboto:400,700&display=swap');
+
+/*******************Body Styling*******************/
+
+body {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+  color: black;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1 {
+  font-family: 'IBMPlexSans', sans-serif;
+  color: #3E2F5B;
+  font-weight: bold;
+}
+
+h2 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 175%;
+  color: white;
+  background-color: #EB8258;
+}
+
+h3 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 125%;
+  color: white;
+  background-color: #6A0136;
+}
+
+ul {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.indent {
+  margin-top: 2.5%;
+  margin-left: 2.5%
+}
+
+.spacing {
+  margin-right: 2.5%;
+  margin-left: 2.5%;
+  padding: 20px;
+}
+
+.links {
+  color: #6A0136;
+  font-weight: bold;
+}
+
+.img {
+  float: left;
+  margin: 10px;
+  margin-bottom: 10px;
+}
+
+.aside {
+  font-weight: 700;
+  color: #3E2F5B;
+}
+
+.center {
+  text-align: center;
+}
+
+.display {
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100px;
+  height: 50px;
+  margin-bottom: 10px;
+}
+#twoimages{text-align:center;}
+
+/*******************Gallery*********************************/
+
+.gallery1 {
+  width: 200px; 
+  height: 300px; 
+  margin-bottom: 15px;
+}
+
+.transform {
+  transform: rotate(270deg);
+  padding: 0px;
+}
+
+/*******************Responsive Navigation*******************/
+
+body {
+  margin-top: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  color: black;
+  font-size: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+nav ul {
+  list-style: none;
+  background-color: #EB8258;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+  top: 0;
+  width: 100%;
+}
+
+nav li {
+  font-family: 'Montserrat': sans-serif;
+  text-transform: uppercase;
+  font-size: 1em;
+  line-height: 40px;
+  height: 40px;
+  text-align: center;
+  text-indent: 5px;
+}
+ 
+nav a {
+  text-decoration: none;
+  color: #fff;
+  display: block;
+}
+ 
+nav a:hover {
+  background-color: #00BFB2;
+}
+ 
+nav a.active {
+  background-color: #3E2F5B;
+  color: white;
+  cursor: default;
+}
+
+@media screen and (min-width: 600px) {
+  nav li {
+    width: 160px;
+    border-bottom: none;
+    height: 50px;
+    line-height: 50px;
+    font-size: 1em;
+}
+ 
+  /* display inline */
+  nav li {
+    display: inline-block;
+    margin-right: -4px;
+}
