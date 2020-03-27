@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+	<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<!-- [if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js">
+		</script>
+		<![end if] -->
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<!-- Insertion of selected Google fonts -->
+		<link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:400,700|Montserrat:400,700|Roboto:400,700&display=swap" rel="stylesheet">
+		<!-- Insertion of Stylesheet -->
+		<link rel="stylesheet" type="text/css" href="CSS/style.css">
+		<!-- Insertion of Bootstrap -->
+		<link rel="stylesheet" type="text/css" href="CSS/bootstrap.css">
+		<title>Shelby Stanley: A Website.</title>
+	</head>
+	<body>
+		<nav role="navigation">
+		<header role="banner">
+			<ul>
+				<li> <a class="active" href="#Home"> Home </a></li>
+				<li> <a href="#Section1"> Education </a></li>
+				<li> <a href="#Section2"> Career </a></li>
+				<li> <a href="#Section3"> Personal Life </a></li>
+				<li> <a href="#Section4"> Gallery </a></li>
+				<li> <a href="#Section5"> Connect </a></li>
+			</ul>
+		</nav>
+			<h1 class="indent"> <b>Who is Shelby Stanley?</b></h1>
+			<div class="col-lg-12 col-md-12 col-sm-12">
+			<p class="indent" style="background-color: #00BFB2;"> Interactive Strategist | Budding Writer | [New] Cool Mom | <a class="links" href="https://www.instagram.com/shezzie19/" target="blank"> @Shezzie19 </a> | <a class="links" href="https://www.linkedin.com/in/shelbystanley" target="blank">linkedin.com/shelbystanley</a></p>
+			</div>
+		</header>
+		<main>
+		<section>
+			<article class="row">
+  			<img src="IMG/ShelbyStanleyBW.jpg" alt="Picture of Shelby" class="col-lg-6 col-md-6 col-sm-12">
+  			<div class="col-lg-6 col-md-6 col-sm-12"><h2>The long and short.</h2>
+  			<p><i>"Welcome! <br><br>Thank you for your curiosity. I am glad that you have taken the time to visit my site, and to find out more about who I am, and what makes me…well, me. After 30 (alright alright, it’s more like 31) years on this earth, I believe I have garnered what can be considered some valuable life experience. And low and behold, I’m ready to share it! But what exactly makes my life experience shareable? Well, it’s your time to find out.</i></p>
+
+			<p><i>Throughout your journey on this site, I hope that I can at least engage your curiosity further, past my credentials and <a class="links" href="https://www.linkedin.com/in/shelbystanley" target="_blank">curriculum vitae</a>, drudging on through the trials and tribulations of my personal life (did I mention that I recently made a human?), and landing comfortably, I hope, at the connect with me page – because I’m always happy to be on the receiving end of a good conversation, or two.</i></p>
+			
+			<p><i>And maybe, just maybe, our paths may cross again, in the real world, and who knows what kind of trouble we can get into. Collaboration is a beautiful thing. Let’s try it sometime. 
+
+			<br><br>Yours Truly,
+
+			<br><br>Shelby Stanley</i>
+			</p></div>
+			</article>
+		</section>
+		<section>
+				<h2 id="Section1" class="background" style="margin-top: 15px">Education</h2>
+				<div class="row">
+				<a href="https://www.centennialcollege.ca/programs-courses/full-time/interactive-media-management/" target="blank"><img src="IMG/CentennialCollege_Logo.png" alt="Centennial College Logo" width="150px" height="75px"class="spacing" class="col-lg-4 col-md-6 col-sm-12"></a>
+				<p class="spacing" class="col-lg-4 col-md-6 col-sm-12">Post Graduate Diploma<br><b>Interactive Media Management</b><br>Centennial College<br><i>present</i></p>
+				</div>
+
+				<div class="row">
+				<a href="https://educ.queensu.ca/PME" target="blank"><img src="IMG/QueensLogo_colour.jpg" alt="Queen's University Logo" width="150px" height="130px"class="spacing" class="col-lg-4 col-md-6 col-sm-12"></a>
+				<p class="spacing" class="col-lg-4 col-md-6 col-sm-12">Professional Masters of Education<br><b>Adult Literacy</b><br>Queen’s University<br> <i>2019 - present</i></p>
+				</div>
+
+				<div class="row">
+				<a href="https://www.queensu.ca/filmandmedia/home" target="blank"><img src="IMG/QueensLogo_colour.jpg" alt="Queen's University Logo" width="150px" height="130px"class="spacing" class="col-lg-4 col-md-6 col-sm-12"></a>
+				<p class="spacing" class="col-lg-4 col-md-6 col-sm-12">Bachelor of Arts Honours<br><b>Film and Media Studies</b><br>Queen’s University<br><i>2007 – 2012</i></p>
+				</div>
+
+				<div class="row">
+				<a href="https://www.tcdsb.org/schools/lorettocollege/Pages/default.aspx" target="blank"><img src="IMG/LorettoCollege_Logo.jpg" alt="Loretto College School Logo" width="150px" height="130px"class="spacing" class="col-lg-4 col-md-6 col-sm-12"></a>
+				<p class="spacing" class="col-lg-4 col-md-6 col-sm-12">Ontario Secondary School Diploma<br>Loretto College School<br><i>2003 – 2007</i></p></div>
+		</section> <!-- Closes Education section -->
+
+		<section>
+				<h2 id="Section2"><div class="background" style="margin-top: 15px">Career </div></h2>
+				<p class="indent">As an experienced advertising professional with a keen eye for detail and self-diagnosed sense of humour, Shelby prides herself on her unique ability to both “break the ice” and simultaneously oversee the intricacies of project management. She brings a flavourful perspective to everything she does, making her a talented user experience specialist, as well as budding writing enthusiast. Her work extends across various media platforms including print, broadcast and web, and her light attitude and collaborative spirit ensures that she can work in a variety of environments with diverse departments and teams. Her love of the design and production of both meaningful and memorable content has allowed her to work on a variety of projects with notable brands the likes of <a href="https://www.youtube.com/watch?v=u8GMX7wvXrg" target="blank" class="links">Disney</a>, <a href="https://thecommunity.ca/perrier/" target="blank" class="links">Perrier</a>, <a href="https://thecommunity.ca/grey-goose-summer-soiree/" target="blank" class="links">Grey Goose</a>, <a href="https://www.youtube.com/watch?v=cFaE1JFWXTQ" target="blank" class="links">RBC</a>, <a href="https://thecommunity.ca/levis/" target="blank" class="links">Levi's</a>, <a href="https://thecommunity.ca/canadian-tire/" target="blank" class="links">Canadian Tire</a>, <a href="https://www.rexall.ca/inspired-beauty/cosmetics" target="blank" class="links">Rexall</a>, and more.</p>
+
+				<p class="indent">Review Shelby's detailed Resume below.</p>
+
+				<iframe src="https://onedrive.live.com/embed?cid=B938EB68BA82C793&resid=B938EB68BA82C793%211984&authkey=AGNyJ016kGypOoE&em=2" width="650" height="400" frameborder="0" scrolling="no"></iframe>
+		</section> <!-- Closes Career section -->
+		
+		<section>
+				<h2 id="Section3">Personal Life</h2>
+				<img src="IMG/Shelby_Matthew_Engagement.jpg" alt="Shelby and Matthew's Engagement Shoot"width="250px" height="350px" class="img" class="col-lg-3 col-md-3 col-sm-3">
+				<p class="col-lg-9 col-md-9 col-sm-9">It all began 30+ years ago…when Shelby came screaming into this world, one eye shut. Ask her mom about the story, she’d be thrilled to tell you. Born to immigrant parents, Shelby was raised on spicy food and soca music. She was never shy, pursuing her love of writing and polishing her stage presence at a very young age. She met her husband in grade school – yes, you read that right. They were in the same class in Grade 5. Shelby had a natural sense of humour at this time, coupled with a friendly attitude and acute athleticism (the latter not sticking around past middle-school). Serendipitously, despite moving away shortly thereafter, her partner re-emerged in her life 10 years later, and they’ve been together ever since.<br> <br> You’ll likely find Shelby talking to strangers – she loves to meet new people and find common ground! What’s next on her bucket list? Likely planning new and exciting adventures with her partner and daughter in tow, whether it be travelling the world, dining at unique and delectable restaurants, lounging at the beach in the summertime or hosting the odd party or two. She has two Shar Peis so you’ll always find a lint roller in her car. That, among other things of grave importance such as some form of scented air freshener because let’s face it, smell is the most intoxicating of senses.</p>
+
+			<!---Gallery---->
+				<h2 id="Section4">Gallery</h2>
+				<section class="row">
+				<span class="col-lg-3 col-md-4 col-sm-6"><img src="IMG/ShelbyNewYork.jpg" alt="Shelby in New York" width="250px" height="300px" style="padding-bottom: 10px"></span>
+
+				<span class="col-lg-3 col-md-4 col-sm-6"><img src="IMG/MattShelbyPark.jpg" alt="Shelby and Matt at the Park" width="250px" height="300px" style="padding-bottom: 10px"></span>
+
+				<span class="col-lg-3 col-md-4 col-sm-6"><img src="IMG/Family.jpg" alt="Gaitan Family Photo" width="250px" height="300px" style="padding-bottom: 10px"></span>
+
+				<span class="col-lg-3 col-md-4 col-sm-6"><img src="IMG/Isadora2.JPG" alt="Baby Isadora" width="250px" height="300px" style="padding-bottom: 10px"></span>
+			</section> <!--Closes Gallery-->
+			<section>
+				<aside role="complementary">
+				<h3> Conversation Starters</h3>
+				<div class="row">
+				<img src="IMG/ShelbySalamiMilan.jpg" alt="Shelby Trying Salami in Milan" width="250px" height="350px" class="img" class="col-lg-3 col-md-3 col-sm-3">
+					<div class="col-lg-9 col-md-9 col-sm-9">
+					<p class="aside">If you run into Shelby in a metaphorical, or even literal hallway, ask her about the following:
+						<ul>
+							<li>Her first tattoo experience.</li>
+							<li>Her ethnic background – would you have guessed it right?</li>
+							<li>How much she loves fine Italian cured meats. Spoiler: it’s A LOT.</li>
+							<li>What Rum would she recommend for the summertime?</li>
+							<li>What terrible television commercial did she star in as a teenager?</li>
+						</ul>
+					</p>
+					</div>
+					</div>
+				</aside>
+		</section>
+		<section>
+				<h2 id="Section5">Connect</h2>
+				<p class="center">I'm a <a href="https://en.wikipedia.org/wiki/Toronto" class="links">Toronto-born</a>, cured meet loving soca music enthusiast who is capable of making the odd joke or two.<br> Let's meet up for a cocktail and I'll tell you all about my new kid.<br>But first, send me a DM on <a class="links" href="https://www.instagram.com/shezzie19/" target="blank">Instagram</a> or message me on <a class="links" href="https://www.linkedin.com/in/shelbystanley" target="blank">Linkedin.</a></p>
+				<div id="twoimages">
+				<a href="https://www.instagram.com/shezzie19/" target="blank"><img src="IMG/Instagram_Icon.jpeg" alt="Instagram" width="100px" height="50px" class="display"></a>
+				<a href="https://www.linkedin.com/in/shelbystanley" target="blank"><img src="IMG/Linkedin_Icon.png" alt="Linkedin" width="100px" height="50px" class="display"></a>
+				</div>
+		</section>
+		<footer>
+			<p class="col-lg-12 col-md-12 col-sm-12" class="indent" style="background-color: #00BFB2;"> Email: shelby_stanley@hotmail.com | <a class="links" href="https://www.instagram.com/shezzie19/" target="blank"> @Shezzie19 </a> | <a class="links" href="https://www.linkedin.com/in/shelbystanley" target="blank">linkedin.com/shelbystanley</a></p>
+		</footer>
+		</main>
+	</body>
+	</html>
